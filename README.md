@@ -24,6 +24,8 @@
 
 💫 Live Dashboard: https://www.novypro.com/project/supply-chain-analysis-10
 
+💫 Color Palette: https://colorhunt.co/palette/698474889e81bac7a7e5e4cc
+
 **Key Learnings:**
 
 🔑 **Business metrics:**
