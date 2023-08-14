@@ -1,11 +1,13 @@
 # Supply_chain_analysis_codebasics
 
 𝗗𝗼𝗺𝗮𝗶𝗻:  Consumer Goods
+
 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻:Supply Chain Management
 
 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗹𝗶𝗻𝗸:https://codebasics.io/challenge/codebasics-resume-project-challenge/5
 
 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:
+
 👉 Atliq Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. 
 
 👉 It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. 
@@ -20,6 +22,7 @@
 💫 Live Dashboard: https://www.novypro.com/project/supply-chain-analysis-10
 
 Key Learnings:
+
 🔑 **Business metrics:**
   Order lines, Line Fill Rate, 
   Volume Fill Rate, 
