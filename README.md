@@ -5,7 +5,8 @@
 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻: Supply Chain Management
 
 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗹𝗶𝗻𝗸: https://codebasics.io/challenge/codebasics-resume-project-challenge/5
-My LinkedIn Post:https://www.linkedin.com/feed/update/urn:li:activity:7096789326776201216/
+
+**My LinkedIn Post**:https://www.linkedin.com/feed/update/urn:li:activity:7096789326776201216/
 
 **𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:**
 
