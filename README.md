@@ -1,6 +1,6 @@
 # Supply_chain_analysis_codebasics
 
-𝗗𝗼𝗺𝗮𝗶𝗻: Consumer Goods
+𝗗𝗼𝗺𝗮𝗶𝗻: FMCG
 
 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻: Supply Chain Management
 
