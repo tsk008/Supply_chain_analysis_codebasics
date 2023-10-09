@@ -1,12 +1,17 @@
-# AtliQ Mart's Supply chain analysis
+# AtliQ Mart - Supply Chain Analysis
 
 𝗗𝗼𝗺𝗮𝗶𝗻: FMCG
 
 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻: Supply Chain Management
 
-𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗹𝗶𝗻𝗸: https://codebasics.io/challenge/codebasics-resume-project-challenge/5
+**𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗹𝗶𝗻𝗸:** https://codebasics.io/challenge/codebasics-resume-project-challenge/5
 
 **My LinkedIn Post**: https://www.linkedin.com/feed/update/urn:li:activity:7096789326776201216/
+
+**Live Dashboard:** https://www.novypro.com/project/supply-chain-analysis-10
+
+**Color Palette:** https://colorhunt.co/palette/698474889e81bac7a7e5e4cc
+
 
 **𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:**
 
@@ -22,11 +27,6 @@
 
 🔭 MS Excel
 
-**𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗹𝗶𝗻𝗸𝘀:**
-
-💫 Live Dashboard: https://www.novypro.com/project/supply-chain-analysis-10
-
-💫 Color Palette: https://colorhunt.co/palette/698474889e81bac7a7e5e4cc
 
 **Key Learnings:**
 
