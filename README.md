@@ -1,4 +1,4 @@
-# Supply_chain_analysis_codebasics
+# Atliq Mart's Supply chain analysis
 
 𝗗𝗼𝗺𝗮𝗶𝗻: FMCG
 
@@ -22,7 +22,7 @@
 
 🔭 MS Excel
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗹𝗶𝗻𝗸𝘀:
+**𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗹𝗶𝗻𝗸𝘀:**
 
 💫 Live Dashboard: https://www.novypro.com/project/supply-chain-analysis-10
 
