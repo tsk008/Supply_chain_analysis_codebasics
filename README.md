@@ -1,4 +1,4 @@
-# Atliq Mart's Supply chain analysis
+# AtliQ Mart's Supply chain analysis
 
 𝗗𝗼𝗺𝗮𝗶𝗻: FMCG
 
