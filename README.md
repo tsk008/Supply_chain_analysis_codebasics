@@ -8,7 +8,7 @@
 
 **My LinkedIn Post**: https://www.linkedin.com/feed/update/urn:li:activity:7096789326776201216/
 
-**Live Dashboard:** https://www.novypro.com/project/supply-chain-analysis-10
+**Live Dashboard:**: https://www.novypro.com/project/supply-chain-analysis-power-bi-3
 
 **Color Palette:** https://colorhunt.co/palette/698474889e81bac7a7e5e4cc
 
